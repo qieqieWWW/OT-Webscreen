@@ -1,0 +1,11 @@
+# Public repository: README, license, and the image used by README only.
+*
+!.gitignore
+!README.md
+!README.en.md
+!LICENSE
+!docs/
+docs/*
+!docs/OT-WebScreen.png
+!docs/演示1.png
+!docs/演示2.png
